@@ -1,32 +1,34 @@
 <!--
 ============================================================
-  ⚠️  ÖNEMLİ / IMPORTANT
-  Bu dosyadaki TÜM "ardabasar" yazan yerleri kendi GitHub
-  kullanıcı adınla değiştir. (Ctrl+H ile topluca değiştirebilirsin)
-  Sosyal medya linklerini de (href="#") kendi linklerinle güncelle.
+  ⚠️  NOTLAR
+  • LinkedIn linkini kontrol et: LinkedIn URL'leri Türkçe karakter
+    kabul etmez, "arda-başar" yerine "arda-basar" olabilir.
+  • Snake (yılan) animasyonu için .github/workflows/snake.yml
+    dosyasını ekleyip bir kez çalıştırman gerekiyor.
+  • Stats/Top Languages/Trophies yüklenmezse: kendi github-readme-stats
+    kopyanı Vercel'e kur (Claude sana adımları verdi).
 ============================================================
 -->
 
 <!-- ============== HEADER / WAVING BANNER ============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=230&section=header&text=Hi%20there,%20I'm%20Arda%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer%20%7C%20Software%20Captain%20%40%20Team%209545&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:A855F7&height=230&section=header&text=Hi%20there,%20I'm%20Arda%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer%20%7C%20Software%20Captain%20%40%20Team%209545&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
 <!-- ============== TYPING ANIMATION ============== -->
 <div align="center">
   <a href="https://github.com/ardabasar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+%2F+Machine+Learning+Developer;Software+Captain+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+%2F+Machine+Learning+Developer;Software+Captain+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- ============== BADGES ============== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ardabasar&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/ardabasar?tab=followers">
-    <img src="https://img.shields.io/github/followers/ardabasar?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/ardabasar?label=Followers&style=for-the-badge&color=22D3EE&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Age-18-58A6FF?style=for-the-badge" alt="Age" />
-  <img src="https://img.shields.io/badge/📍_Istanbul-Türkiye-1F6FEB?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/💼_Open_to-Freelance-A855F7?style=for-the-badge&labelColor=0D1117" alt="Freelance" />
+  <img src="https://img.shields.io/badge/📍_Istanbul-Türkiye-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Location" />
 </div>
 
 <br/>
@@ -38,7 +40,6 @@
 class Developer:
     def __init__(self):
         self.name = "Arda"
-        self.age = 18
         self.role = "Full Stack & AI Developer"
         self.location = "Istanbul, Türkiye 🇹🇷"
         self.team = "Caracal Robotics #9545 (FRC)"
@@ -61,7 +62,7 @@ class Developer:
 - 💼 Available for **freelance** work and open-source collaboration
 - ⚡ Love turning hard problems into clean, working products
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
 <!-- ============== TECH STACK ============== -->
 ## 🛠️ Tech Stack
@@ -96,29 +97,29 @@ class Developer:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,postman,figma&perline=10" alt="Tools" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
 <!-- ============== GITHUB STATS ============== -->
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardabasar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ardabasar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardabasar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ardabasar&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=A855F7&currStreakNum=C9D1D9&currStreakLabel=22D3EE&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabasar&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabasar&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardabasar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ardabasar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardabasar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardabasar&bg_color=0D1117&color=22D3EE&line=22D3EE&point=A855F7&area=true&area_color=22D3EE&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
 <!-- ============== CONTRIBUTION SNAKE ============== -->
 ## 🐍 Contribution Snake
@@ -127,7 +128,7 @@ class Developer:
   <img src="https://raw.githubusercontent.com/ardabasar/ardabasar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
 <!-- ============== CONNECT WITH ME ============== -->
 ## 🤝 Connect With Me
@@ -150,7 +151,7 @@ class Developer:
 
 <!-- ============== FOOTER WAVE ============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:22D3EE&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
