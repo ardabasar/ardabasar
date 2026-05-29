@@ -1,12 +1,9 @@
 <!--
 ============================================================
-  ⚠️  NOTLAR
-  • LinkedIn linkini kontrol et: LinkedIn URL'leri Türkçe karakter
-    kabul etmez, "arda-başar" yerine "arda-basar" olabilir.
-  • Snake (yılan) animasyonu için .github/workflows/snake.yml
-    dosyasını ekleyip bir kez çalıştırman gerekiyor.
-  • Stats/Top Languages/Trophies yüklenmezse: kendi github-readme-stats
-    kopyanı Vercel'e kur (Claude sana adımları verdi).
+  ⚠️  TEK NOT: LinkedIn linkini kontrol et. LinkedIn URL'leri
+  Türkçe karakter kabul etmez, "arda-başar" yerine senin gerçek
+  adresin "arda-basar" olabilir. Açılmazsa o kısmı düzelt.
+  Gerisi hazır — direkt copy-paste.
 ============================================================
 -->
 
@@ -24,9 +21,6 @@
 
 <!-- ============== BADGES ============== -->
 <div align="center">
-  <a href="https://github.com/ardabasar?tab=followers">
-    <img src="https://img.shields.io/github/followers/ardabasar?label=Followers&style=for-the-badge&color=22D3EE&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
-  </a>
   <img src="https://img.shields.io/badge/💼_Open_to-Freelance-A855F7?style=for-the-badge&labelColor=0D1117" alt="Freelance" />
   <img src="https://img.shields.io/badge/📍_Istanbul-Türkiye-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Location" />
 </div>
@@ -50,17 +44,17 @@ class Developer:
         return {
             "🔭": "Building full stack web & mobile apps",
             "🤖": "AI / Machine Learning research & development",
+            "☁️": "Cloud, networking & server infrastructure",
             "🏆": "Leading software for an FRC World Championship team",
-            "💼": "Freelancing & shipping side projects",
-            "🌱": "Always learning something new"
+            "💼": "Freelancing & shipping side projects"
         }
 ```
 
 - 🤖 **Software Captain** at **Team 9545 – Caracal Robotics**, an FRC team competing at the **FIRST World Championship**
 - 🧠 Researching & developing **AI / Machine Learning** projects
 - 💻 **Full Stack Developer** — comfortable across the entire web & mobile stack
+- ☁️ Working with **cloud platforms, networking & server infrastructure**
 - 💼 Available for **freelance** work and open-source collaboration
-- ⚡ Love turning hard problems into clean, working products
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
@@ -79,7 +73,12 @@ class Developer:
 
 #### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=10" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=10" alt="Databases" />
+</div>
+
+#### ☁️ Cloud, DevOps & Networking
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,nginx,cloudflare,vercel,netlify,firebase,bash&perline=12" alt="Cloud & DevOps" />
 </div>
 
 #### 🧠 AI / Machine Learning
@@ -94,38 +93,24 @@ class Developer:
 
 #### 🧰 Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,postman,figma&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&perline=10" alt="Tools" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
 
-<!-- ============== GITHUB STATS ============== -->
-## 📊 GitHub Statistics
+<!-- ============== CURRENTLY EXPLORING ============== -->
+## ⚡ Currently Exploring
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardabasar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ardabasar&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=A855F7&currStreakNum=C9D1D9&currStreakLabel=22D3EE&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=55&lines=Always+building+something+new;Cloud,+servers+%26+networking;Turning+coffee+into+clean+code;Open+source+enthusiast" alt="Currently Exploring" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabasar&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardabasar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardabasar&bg_color=0D1117&color=22D3EE&line=22D3EE&point=A855F7&area=true&area_color=22D3EE&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
-
-<!-- ============== CONTRIBUTION SNAKE ============== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ardabasar/ardabasar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-22D3EE?style=for-the-badge&labelColor=0D1117" alt="AI" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-A855F7?style=for-the-badge&labelColor=0D1117" alt="Cloud" />
+  <img src="https://img.shields.io/badge/DevOps-22D3EE?style=for-the-badge&labelColor=0D1117" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Networking_%26_Servers-A855F7?style=for-the-badge&labelColor=0D1117" alt="Networking" />
+  <img src="https://img.shields.io/badge/Open_Source-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open Source" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
