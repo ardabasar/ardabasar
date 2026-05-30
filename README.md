@@ -61,17 +61,17 @@ class Developer:
 
 #### 🎨 Frontend & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,sass,vite&perline=10" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,jquery,tailwind,bootstrap,sass,vite,wordpress&perline=11" alt="Frontend" />
 </div>
 
 #### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=10" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase&perline=10" alt="Databases" />
 </div>
 
 #### ☁️ Cloud, DevOps & Networking
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=gcp,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps" />
 </div>
 
 #### 🧠 AI & LLM Integration
@@ -98,7 +98,7 @@ class Developer:
 
 #### 🧰 Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,npm,spotify&perline=10" alt="Tools" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%" />
