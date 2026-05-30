@@ -1,12 +1,3 @@
-<!--
-============================================================
-  ⚠️  TEK NOT: LinkedIn linkini kontrol et. LinkedIn URL'leri
-  Türkçe karakter kabul etmez, "arda-başar" yerine senin gerçek
-  adresin "arda-basar" olabilir. Açılmazsa o kısmı düzelt.
-  Gerisi hazır — direkt copy-paste.
-============================================================
--->
-
 <!-- ============== HEADER / WAVING BANNER ============== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:A855F7&height=230&section=header&text=Hi%20there,%20I'm%20Arda%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer%20%7C%20Software%20Captain%20%40%20Team%209545&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
@@ -42,7 +33,8 @@ class Developer:
 
     def current_focus(self):
         return {
-            "🔭": "Building full stack web & mobile apps",
+            "🔭": "Building web, mobile & desktop applications",
+            "🦾": "Hardware & real-world robotics projects",
             "🤖": "AI / Machine Learning research & development",
             "☁️": "Cloud, networking & server infrastructure",
             "🏆": "Leading software for an FRC World Championship team",
@@ -51,8 +43,9 @@ class Developer:
 ```
 
 - 🤖 **Software Captain** at **Team 9545 – Caracal Robotics**, an FRC team competing at the **FIRST World Championship**
+- 💻 **Full Stack Developer** — building **web, mobile & desktop** applications
+- 🦾 Hands-on with **real-world robotics & hardware** projects
 - 🧠 Researching & developing **AI / Machine Learning** projects
-- 💻 **Full Stack Developer** — comfortable across the entire web & mobile stack
 - ☁️ Working with **cloud platforms, networking & server infrastructure**
 - 💼 Available for **freelance** work and open-source collaboration
 
@@ -78,7 +71,7 @@ class Developer:
 
 #### ☁️ Cloud, DevOps & Networking
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,nginx,cloudflare,vercel,netlify,firebase,bash&perline=12" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps" />
 </div>
 
 #### 🧠 AI / Machine Learning
