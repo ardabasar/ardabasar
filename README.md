@@ -77,10 +77,12 @@ class Developer:
 #### 🧠 AI & LLM Integration
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI-22D3EE?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/OpenClaw-A855F7?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
-  <img src="https://img.shields.io/badge/LLM_Integration-22D3EE?style=for-the-badge&labelColor=0D1117" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/AI--Powered_Apps-A855F7?style=for-the-badge&labelColor=0D1117" alt="AI-Powered Apps" />
-  <img src="https://img.shields.io/badge/Multi--Model-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Multi-Model" />
+  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=claude&logoColor=white&labelColor=0D1117" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google_Gemini-22D3EE?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-A855F7?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-22D3EE?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Perplexity-A855F7?style=for-the-badge&logo=perplexity&logoColor=white&labelColor=0D1117" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/OpenClaw-22D3EE?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
 </div>
 
 #### 🤖 Robotics & Hardware
