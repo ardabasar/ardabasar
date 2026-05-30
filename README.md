@@ -76,17 +76,19 @@ class Developer:
 
 #### 🧠 AI & LLM Integration
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="OpenAI" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="OpenAI" /></picture>
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude.png" alt="Claude" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" alt="Claude" /></picture>
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini.png" alt="Gemini" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" alt="Gemini" /></picture>
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="Ollama" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/deepseek-color.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" alt="DeepSeek" /></picture>
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface.png" alt="Hugging Face" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="Ollama" /></picture>
   &nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/perplexity.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/perplexity.png" alt="Perplexity" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" alt="Hugging Face" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" /><img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png" alt="Perplexity" /></picture>
 </div>
 
 #### 🤖 Robotics & Hardware
