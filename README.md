@@ -76,13 +76,17 @@ class Developer:
 
 #### 🧠 AI & LLM Integration
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-22D3EE?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-A855F7?style=for-the-badge&logo=claude&logoColor=white&labelColor=0D1117" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google_Gemini-22D3EE?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-A855F7?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging_Face-22D3EE?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Perplexity-A855F7?style=for-the-badge&logo=perplexity&logoColor=white&labelColor=0D1117" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/OpenClaw-22D3EE?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="OpenAI" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude.png" alt="Claude" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini.png" alt="Gemini" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="Ollama" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface.png" alt="Hugging Face" /></picture>
+  &nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/perplexity.png" /><img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/perplexity.png" alt="Perplexity" /></picture>
 </div>
 
 #### 🤖 Robotics & Hardware
