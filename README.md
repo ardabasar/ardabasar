@@ -6,7 +6,7 @@
 <!-- ============== TYPING ANIMATION ============== -->
 <div align="center">
   <a href="https://github.com/ardabasar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+%2F+Machine+Learning+Developer;Software+Captain+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+Developer+%2F+LLM+Integration;Software+Captain+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -74,9 +74,13 @@ class Developer:
   <img src="https://skillicons.dev/icons?i=gcp,firebase,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps" />
 </div>
 
-#### 🧠 AI / Machine Learning
+#### 🧠 AI & LLM Integration
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=10" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/OpenAI-22D3EE?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenClaw-A855F7?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/LLM_Integration-22D3EE?style=for-the-badge&labelColor=0D1117" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/AI--Powered_Apps-A855F7?style=for-the-badge&labelColor=0D1117" alt="AI-Powered Apps" />
+  <img src="https://img.shields.io/badge/Multi--Model-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Multi-Model" />
 </div>
 
 #### 🤖 Robotics & Hardware
