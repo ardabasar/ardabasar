@@ -4,7 +4,7 @@
 
 <!-- ========================================================= -->
 
-<!-- ============== HEADER / WAVING BANNER ============== -->
+<!-- ============== HEADER ============== -->
 
 <div align="center">
 
@@ -12,13 +12,13 @@
 
 </div>
 
-<!-- ============== TYPING ANIMATION ============== -->
+<!-- ============== TYPING ============== -->
 
 <div align="center">
 
 <a href="https://github.com/ardabasar">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=Full+Stack+Developer;AI+Developer+%2F+LLM+Integration;Young+Mentor+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver;Building+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=Full+Stack+Developer;AI+Developer+%2F+LLM+Integration;Young+Mentor+%40+Caracal+Robotics+9545;Freelancer+%26+Problem+Solver;Building+Ideas+Into+Reality" alt="Typing SVG"/>
 
 </a>
 
@@ -26,15 +26,15 @@
 
 <br/>
 
-<!-- ============== STATUS BADGES ============== -->
+<!-- ============== STATUS ============== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼_Open_to-Freelance-A855F7?style=for-the-badge&labelColor=0D1117" alt="Freelance" />
+<img src="https://img.shields.io/badge/💼_Open_to-Freelance-A855F7?style=for-the-badge&labelColor=0D1117" alt="Freelance"/>
 
-<img src="https://img.shields.io/badge/📍_Istanbul-Türkiye-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Location" />
+<img src="https://img.shields.io/badge/📍_Istanbul-Türkiye-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Location"/>
 
-<img src="https://img.shields.io/badge/🦾_Young_Mentor-Team_9545-A855F7?style=for-the-badge&labelColor=0D1117" alt="Young Mentor" />
+<img src="https://img.shields.io/badge/🦾_Young_Mentor-Team_9545-A855F7?style=for-the-badge&labelColor=0D1117" alt="Young Mentor"/>
 
 </div>
 
@@ -75,8 +75,8 @@ class Developer:
 * 🦾 Working with **robotics, automation & real-world hardware**
 * ☁️ Exploring **cloud platforms, networking & server infrastructure**
 * 💡 Turning ideas into **real, usable products**
-* 🧑‍🏫 Passionate about **mentoring and knowledge sharing**
-* 🌎 Interested in **open source, technology and ambitious projects**
+* 🧑‍🏫 Passionate about **mentoring & knowledge sharing**
+* 🌎 Interested in **open source, technology & ambitious projects**
 * 💼 Available for **freelance work & collaborations**
 
 <br/>
@@ -95,7 +95,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,html,css&perline=10" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,html,css&perline=10" alt="Languages"/>
 
 </div>
 
@@ -103,7 +103,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,jquery,tailwind,bootstrap,sass,vite,wordpress&perline=11" alt="Frontend & Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,jquery,tailwind,bootstrap,sass,vite,wordpress&perline=11" alt="Frontend"/>
 
 </div>
 
@@ -111,7 +111,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase&perline=10" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase&perline=10" alt="Databases"/>
 
 </div>
 
@@ -119,7 +119,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=gcp,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=gcp,linux,docker,nginx,cloudflare,vercel,netlify,bash&perline=10" alt="Cloud & DevOps"/>
 
 </div>
 
@@ -127,52 +127,15 @@ class Developer:
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="OpenAI">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" alt="Claude">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" alt="Gemini">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/deepseek-color.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" alt="DeepSeek">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="Ollama">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" alt="Hugging Face">
-</picture>
-
-  
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png">
-<img height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png" alt="Perplexity">
-</picture>
+<img src="https://skillicons.dev/icons?i=openai&perline=1" height="48" alt="OpenAI"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=claude&perline=1" height="48" alt="Claude"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gemini&perline=1" height="48" alt="Gemini"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ollama&perline=1" height="48" alt="Ollama"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=huggingface&perline=1" height="48" alt="Hugging Face"/>
 
 </div>
 
@@ -180,7 +143,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10" alt="Robotics & Hardware" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10" alt="Robotics"/>
 
 </div>
 
@@ -188,7 +151,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,npm&perline=10" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,npm&perline=10" alt="Tools"/>
 
 </div>
 
@@ -198,7 +161,7 @@ class Developer:
 
 <!-- ========================================================= -->
 
-<!--                   WHAT I BUILD                            -->
+<!--                       WHAT I BUILD                         -->
 
 <!-- ========================================================= -->
 
@@ -211,23 +174,23 @@ class Developer:
 
 <td width="50%" align="center">
 
-### 💻 Software
+### 💻 SOFTWARE
 
-Web applications
-Mobile applications
-Desktop applications
-SaaS & automation
+Web Applications
+Mobile Applications
+Desktop Applications
+SaaS & Automation
 
 </td>
 
 <td width="50%" align="center">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI
 
-LLM integrations
-AI-powered products
-Automation systems
-Intelligent workflows
+LLM Integrations
+AI-Powered Products
+Automation Systems
+Intelligent Workflows
 
 </td>
 
@@ -237,23 +200,23 @@ Intelligent workflows
 
 <td width="50%" align="center">
 
-### 🦾 Robotics
+### 🦾 ROBOTICS
 
-FRC robotics
-Computer vision
+FRC Robotics
+Computer Vision
 Automation
-Hardware + software systems
+Hardware + Software
 
 </td>
 
 <td width="50%" align="center">
 
-### ☁️ Infrastructure
+### ☁️ INFRASTRUCTURE
 
-Cloud systems
-Linux servers
+Cloud Systems
+Linux Servers
 Networking
-Deployment & DevOps
+DevOps & Deployment
 
 </td>
 
@@ -266,7 +229,7 @@ Deployment & DevOps
 
 <!-- ========================================================= -->
 
-<!--                  CURRENTLY EXPLORING                       -->
+<!--                    CURRENTLY EXPLORING                     -->
 
 <!-- ========================================================= -->
 
@@ -274,59 +237,15 @@ Deployment & DevOps
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Building+ideas+into+real+products;Exploring+AI+%26+emerging+technologies;Learning%2C+building%2C+sharing;Always+curious.+Always+building." alt="Currently Exploring" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Building+ideas+into+real+products;Exploring+AI+%26+emerging+technologies;Learning%2C+building%2C+sharing;Always+curious.+Always+building." alt="Currently Exploring"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Cloud_%26_DevOps-A855F7?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Robotics-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Networking-A855F7?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Open_Source-22D3EE?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:A855F7&height=3" width="100%"/>
-
-<!-- ========================================================= -->
-
-<!--                   GITHUB ACTIVITY                         -->
-
-<!-- ========================================================= -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/ardabasar">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ardabasar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=FFFFFF&ring_color=22D3EE&include_all_commits=true&count_private=true" />
-
-</a>
-
-<a href="https://github.com/ardabasar">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabasar&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabasar&hide_border=true&background=0D1117&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ardabasar&bg_color=0D1117&color=FFFFFF&line=22D3EE&point=A855F7&area=true&hide_border=true&custom_title=Arda's%20Contribution%20Graph" width="95%" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Cloud_%26_DevOps-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Robotics-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Networking-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Open_Source-22D3EE?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -390,10 +309,10 @@ From learning to teaching.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILD-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CREATE-A855F7?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MENTOR-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/REPEAT-A855F7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILD-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CREATE-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MENTOR-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REPEAT-A855F7?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -401,7 +320,7 @@ From learning to teaching.
 
 <!-- ========================================================= -->
 
-<!--                     TERMINAL                              -->
+<!--                       TERMINAL                             -->
 
 <!-- ========================================================= -->
 
@@ -418,16 +337,16 @@ From learning to teaching.
 │                                                              │
 │  arda@dev ~ % cat /etc/motivation                            │
 │                                                              │
-│  "Build what doesn't exist.                                   │
-│   Learn what you don't know.                                  │
-│   Teach what you've learned."                                 │
+│  "Build what doesn't exist.                                  │
+│   Learn what you don't know.                                 │
+│   Teach what you've learned."                                │
 │                                                              │
 │  arda@dev ~ % ./keep_building.sh                             │
 │                                                              │
 │  ████████████████████████████████████████ 100%               │
 │                                                              │
-│  Status: ONLINE                                               │
-│  Mission: BUILD • LEARN • MENTOR                              │
+│  Status: ONLINE                                              │
+│  Mission: BUILD • LEARN • MENTOR                             │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -438,7 +357,7 @@ From learning to teaching.
 
 <!-- ========================================================= -->
 
-<!--                  FINAL CTA                                 -->
+<!--                     FINAL CTA                              -->
 
 <!-- ========================================================= -->
 
@@ -455,7 +374,7 @@ Let's turn it into reality.
 <br/><br/>
 
 <a href="mailto:ardabasarx@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-22D3EE?style=for-the-badge&labelColor=0D1117&logo=minutemailer&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_TALK-22D3EE?style=for-the-badge&labelColor=0D1117&logo=minutemailer&logoColor=white" alt="Let's Talk"/>
 </a>
 
 </div>
